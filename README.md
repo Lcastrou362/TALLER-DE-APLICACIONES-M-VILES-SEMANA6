@@ -6,7 +6,7 @@ Se desarrolla como parte del taller de aplicaciones móviles, aplicando control 
 
 ---
 
-## 📌 Requerimientos Funcionales
+## Requerimientos Funcionales
 
 1. El sistema debe permitir que el usuario inicie sesión con credenciales válidas.
 2. Si el login es exitoso, la aplicación debe obtener la ubicación GPS del dispositivo.
@@ -17,7 +17,7 @@ Se desarrolla como parte del taller de aplicaciones móviles, aplicando control 
 
 ---
 
-## ⚙️ Requerimientos No Funcionales
+## Requerimientos No Funcionales
 
 1. **Disponibilidad:** La aplicación debe funcionar en dispositivos con Android 8.0 (Oreo) o superior.  
 2. **Usabilidad:** La interfaz debe ser sencilla y clara, mostrando la ubicación en un campo de texto.  
@@ -28,7 +28,7 @@ Se desarrolla como parte del taller de aplicaciones móviles, aplicando control 
 
 ---
 
-## 🚀 Instalación y Configuración
+##  Instalación y Configuración
 
 1. Clonar este repositorio:
    ```bash
