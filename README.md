@@ -23,8 +23,7 @@ Se desarrolla como parte del taller de aplicaciones móviles, aplicando control 
 2. **Usabilidad:** La interfaz debe ser sencilla y clara, mostrando la ubicación en un campo de texto.  
 3. **Seguridad:** La app debe validar permisos de ubicación antes de acceder al GPS.  
 4. **Escalabilidad:** El sistema debe permitir agregar más funcionalidades sobre Firebase (ej. autenticación real con FirebaseAuth).  
-5. **Mantenibilidad:** El código debe estar organizado en clases separadas para facilitar futuras modificaciones.  
-6. **Colaboración:** El proyecto debe mantenerse en un repositorio de GitHub con control de versiones y ramas para cada historia de usuario.  
+5. **Colaboración:** El proyecto debe mantenerse en un repositorio de GitHub con control de versiones y ramas para cada historia de usuario.  
 
 ---
 
